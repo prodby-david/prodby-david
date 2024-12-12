@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on my favorite software engineer influencer
 - 📫 You can reach me via my social media accounts
-- ⚡ Fun fact: I'm a fan of BINI 
+- ⚡ Fun fact: I'm a fan of BINI
+  
 
 
