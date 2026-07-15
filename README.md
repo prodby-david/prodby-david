@@ -9,8 +9,8 @@ My main tech stack is React, TypeScript, Next.js, NestJS, and PostgreSQL with Pr
 I've got a few projects in progress, but my current focus is [**Siklo**](https://github.com/prodby-david/siklo) — a digital paluwagan (rotating savings group) management app built for Filipino communities.
 
 **Fun Facts:**
-- I'm into gaming and esports
-- I'm still a student, learning in public as I build
-- **Currently exploring:** System Design, CI/CD, AI Workflows, and Docker
+- Software developing isn't just my career goal now — it's genuinely my hobby too.
+- Self-taught in a lot of what I know, and always learning something new.
+- **Currently exploring:** System Design, AI Workflows, DevOps fundamentals and Cloud Services like AWS.
 
 📫 Open to fullstack developer roles — feel free to reach out!
