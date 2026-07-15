@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**prodby-david/prodby-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **John David**, a fullstack developer based in the Philippines.
 
-Here are some ideas to get you started:
+I design and build software whenever an idea sticks around long enough to become a real project — usually something that solves a problem I've actually run into.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is React, TypeScript, Next.js, NestJS, and PostgreSQL with Prisma. My go-to tools are VS Code, Postman, and Figma for quick mockups.
+
+I've got a few projects in progress, but my current focus is [**Siklo**](https://github.com/prodby-david/siklo) — a digital paluwagan (rotating savings group) management app built for Filipino communities.
+
+If you want to see how I got here, I'm currently studying BS Information Technology at STI College Global City.
+
+**Fun Facts:**
+
+- I'm into gaming and esports
+- I'm still a student, learning in public as I build
+- **Currently exploring:** System Design, CI/CD, AI Workflows, and Docker
