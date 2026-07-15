@@ -11,6 +11,6 @@ I've got a few projects in progress, but my current focus is [**Siklo**](https:/
 **Fun Facts:**
 - Software developing isn't just my career goal now — it's genuinely my hobby too.
 - Self-taught in a lot of what I know, and always learning something new.
-- **Currently exploring:** System Design, AI Workflows, DevOps fundamentals and Cloud Services like AWS.
+- **Currently exploring:** System Design, AI Workflows, DevOps, and AWS.
 
 📫 Open to fullstack developer roles — feel free to reach out!
